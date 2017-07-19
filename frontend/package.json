@@ -4,7 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-addons-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "react-simple-sidenav": "^0.1.6",
+    "reactstrap": "^4.8.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.10"
